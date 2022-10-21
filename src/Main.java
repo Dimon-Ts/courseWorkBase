@@ -4,6 +4,7 @@ public class Main {
         System.out.println("Курсовое задание. Книга сотрудников.");
 
         System.out.println("================================================================================");
+
         Employee[] employee = new Employee[10];
 
         Employee ivanovIvanIvanovich = new Employee("Ivanov Ivan Ivanovich", 65799, 1);

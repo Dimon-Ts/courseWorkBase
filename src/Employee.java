@@ -7,7 +7,7 @@ public class Employee {
     private static int Id;
 
     public Employee
-            (String employee, float salary, int department) {
+            (String employee, float salary,int department) {
         this.employee = employee;
         this.salary = salary;
         this.department = department;
@@ -43,6 +43,7 @@ public class Employee {
     public void setDepartment(int department) {
         this.department = department;
     }
+
 
     public String toString() {
         return "№" + Id + "  " + "Ф.И.О.- " + employee + ",зарплата - "
