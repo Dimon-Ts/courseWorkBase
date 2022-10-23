@@ -53,29 +53,8 @@ public class Employee {
 
 
     }
-    //public static void main(String[] args) {
-    //    Employee[] employees = new Employee[10];
-    //    employees[0] = new Employee("Ivanov Ivan Ivanovich", 65799, 1);
-    //    employees[1] = new Employee("Sidorov Mikhail Alexandrovich", 55768, 1);
-    //    employees[2] = new Employee("Vasiliev Matvei Grigorievich", 60000, 1);
-    //    employees[3] = new Employee("Fedorov Pavel Alekseevich", 57800, 2);
-    //    employees[4] = new Employee("Pavlov Sergey Sergeyevich", 75567, 3);
-    //    employees[5] = new Employee("Konkin Valeriy Pavlovich", 89000, 3);
-    //    employees[6] = new Employee("Starov Dmitry Alexandrovich", 95999, 4);
-    //    employees[7] = new Employee("Malkin Viktor Fyodorovich", 98500, 4);
-    //    employees[8] = new Employee("Nikolaev Mikhail Nikolaevich", 45569, 5);
-    //    employees[9] = new Employee("Alekseev Alexey Alekseevich", 50534, 5);
 
-        //float[] salary = new Salary[10];
-        //float sumSalaryMonth = 0;
-
-
-        //for (int i = 0; i < salary.length; i++) {
-        //    sumSalaryMonth += salary[i];
-        //}
-
-
-    }
+}
 
 
 
